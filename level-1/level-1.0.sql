@@ -1,0 +1,6 @@
+/*
+    SQL file
+    Comments ...
+*/
+
+-- Comment
